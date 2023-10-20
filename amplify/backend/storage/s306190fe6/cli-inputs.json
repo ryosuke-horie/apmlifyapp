@@ -1,0 +1,14 @@
+{
+  "resourceName": "s306190fe6",
+  "policyUUID": "06190fe6",
+  "bucketName": "apmlifyreactgraphgl01e574a317394456bdade8b28a26",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
